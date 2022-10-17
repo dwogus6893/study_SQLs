@@ -10,3 +10,5 @@
 
 ### Employees_Order_totals : 직원(Employees) EmployeeID가 7, 9인 종업원이 받는 주문(Orders) 총 수는 ?
 - [query leejaehyun](./leejaehyun/w3schools/Employees_Order_total.sql)
+
+### Categories_Products_totals : 분류(Categories)가 Produce, Beverages인 제품(Products) 총 갯수는 ?
