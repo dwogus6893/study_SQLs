@@ -6,3 +6,4 @@
 
 ### where_and_not : 서브쿼리를 AND 이용해 활용
 - [query yeonjooryu](./yeonjoooryu/w3schools/where_and_not.sql)
+- [query leejaehyun](./leejaehyun/w3schools/where_and_not.sql)
