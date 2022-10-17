@@ -3,5 +3,5 @@ study SQLs
 leejaeyun
 yeonjooryu
 
-
-홀수기록
+짝수 기록
+홀수 기록
