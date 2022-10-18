@@ -18,6 +18,7 @@
 
 ### CategoryName 가 Dairy Products, Seafood이고 Price 10.00이상 50.00이하인 합계와 평균은 ?
 - [query leejaehyun](./leejaehyun/w3schools/CategoryName_Products.sql)
+- [query yeonjooryou](./yeonjoooryu/w3schools/CategoryName_Products.sql)
 
 ### CategoryName 가 Dairy Products, Seafood이고 Price 10.00이상 50.00이하인 주문  OrderID 내역과 총 갯수는 ?
 - [query leejaehyun](./leejaehyun/w3schools/CategoryName_Products_Order.sql)
