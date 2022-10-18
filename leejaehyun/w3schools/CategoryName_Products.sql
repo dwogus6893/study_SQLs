@@ -2,8 +2,8 @@
 CategoryName_Products.sql
 
 SELECT SUM(Price),AVG(Price)
-From Products
-WHERE Price BETWEEN 10.00 AND 50.00
-AND CategoryID IN (SELECT CategoryID
-                    FROM Categories 
-                    WHERE CategoryName IN('Dairy Products, Seafood'));
+FROM Products
+WHERE Price BETWEEN 10 AND 50 
+AND CategoryID IN ( SELECT CategoryID
+FROM Categories
+WHERE CategoryName IN ('Dairy Products', 'Seafood'));
