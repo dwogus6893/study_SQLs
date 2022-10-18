@@ -2,7 +2,7 @@
 #Categories_Products_totals.sql
 
 SELECT COUNT(*)
-FROM Products
+FROM Products 
 WHERE CategoriesID IN(SELECT CategoriesID
                     FROM Categories
                     WHERE CategoryName
