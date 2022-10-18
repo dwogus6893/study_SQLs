@@ -27,3 +27,4 @@
 
 ### Categories별로 구성된 제품 갯수 표시하세요 
 - [query leejaehyun](./leejaehyun/w3schools/Categories_Products_Count.sql)
+- [query yeonjooryu](./yeonjoooryu/w3schools/Categories_Products_Count.sql)
