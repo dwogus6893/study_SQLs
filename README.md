@@ -35,3 +35,5 @@
 - [query yeonjooryu](./yeonjoooryu/w3schools/Products_HAVING.sql)
 - [query AnJiYeong](./AnJiYeong/w3schools/Products_HAVING.sql)
 
+### Users_Auths_query
+- [query yeonjoo](./yeonjoooryu/Users_Auths_query.sql)
