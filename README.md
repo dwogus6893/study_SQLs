@@ -28,3 +28,4 @@
 ### Categories별로 구성된 제품 갯수, 가격 평균, 최고값, 최저값 표시하세요.
 - [query leejaehyun](./leejaehyun/w3schools/Categories_Products_Count.sql)
 - [query yeonjooryu](./yeonjoooryu/w3schools/Categories_Products_Count.sql)
+- [query AnJiYeong](./AnJiYeong/w3schools/Categories_Products_Count.sql)
