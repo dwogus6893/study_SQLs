@@ -33,5 +33,5 @@
 ### 카테고리에 10 이상인 제품이 있는 카테고리 표시?
 - [query leejaehyun](./leejaehyun/w3schools/Products_HAVING.sql)
 - [query yeonjooryu](./yeonjoooryu/w3schools/Products_HAVING.sql)
-
+- [query AnJiYeong](./AnJiYeong/w3schools/Products_HAVING.sql)
 
