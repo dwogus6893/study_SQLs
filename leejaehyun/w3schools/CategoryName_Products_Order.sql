@@ -22,7 +22,7 @@ FROM OrdersDetails;
 SELECT OrderID, Count(OrderID)
 FROM OrdersDetails
 WEHRE ProductID IN (SELECT ProductID
-					FROM Products
+					FROM Produ
 					WHERE Price BETWEEN 10 AND 50
 					AND CategoryId IN(
 					SELECT CategoryID
