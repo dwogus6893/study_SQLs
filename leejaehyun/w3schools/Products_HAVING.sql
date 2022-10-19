@@ -1,4 +1,4 @@
 SELECT CategoryID,COUNT(ProductID)
-FROM Products IS NULL
+FROM Products
 GROUP BY CategoryID
 HAVING COUNT(CategoryID) >=10;
