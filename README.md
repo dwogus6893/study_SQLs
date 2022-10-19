@@ -28,9 +28,9 @@
 ### Categories별로 구성된 제품 갯수, 가격 평균, 최고값, 최저값 표시하세요.
 - [query leejaehyun](./leejaehyun/w3schools/Categories_Products_Count.sql)
 - [query yeonjooryu](./yeonjoooryu/w3schools/Categories_Products_Count.sql)
-<<<<<<< HEAD
+- [query AnJiYeong](./AnJiYeong/w3schools/Categories_Products_Count.sql)
 
 ### 카테고리에 10 이상인 제품이 있는 카테고리 표시?
 - [query leejaehyun](./leejaehyun/w3schools/Products_HAVING.sql)
-- [query AnJiYeong](./AnJiYeong/w3schools/Categories_Products_Count.sql)
+
 
