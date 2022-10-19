@@ -1,7 +1,4 @@
-SELECT CategoryName
-FROM Categories
-WHERE CategoryID 
-IN (SELECT CategoryID
-	FROM Products
-	GROUP BY CategoryID
-	HAVING COUNT(*) >=10);
+SELECT CategoryID,COUNT(ProductID)
+FROM Products IS NULL
+GROUP BY CategoryID
+HAVING COUNT(CategoryID) >=10;
