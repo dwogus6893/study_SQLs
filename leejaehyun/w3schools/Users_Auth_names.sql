@@ -1,0 +1,5 @@
+SELECT users.NAME, users.EMAIL,auths.UNIQUE_ID_AUTH_NAMES
+FROM users
+INNER JOIN auths
+ON users.UNIQUE_ID = UNIQUE_ID_USERS
+AND users.Name IN ('TEDDY','Allen');
