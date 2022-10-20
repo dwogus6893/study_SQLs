@@ -37,6 +37,7 @@
 
 ### Users_Auths_query
 - [query yeonjoo](./yeonjoooryu/Users_Auths_query.sql)
+- [query leejaehyun](./leejaehyun/w3schools/
 
 ### Products에 CategoryID가 5,6를 표시, 내용 프로덕트 이름, 공급자 이름 출력
 - [query yeonjoo](./yeonjoooryu/Products_CategoryID.sql)
