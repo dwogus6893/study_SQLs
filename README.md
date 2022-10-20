@@ -54,5 +54,6 @@
 - [query AnJiYeong](./AnJiYeong/w3schools/Users_Auth_names.sql)
 
 ### 이름, 이메일, 권한이름 표시 / 조건 이름이 'Teddy', 'Allen' ?
+- [query yeonjoo](./yeonjoooryu/w3schools/Users_Auth_names.sql)
 
 
