@@ -46,3 +46,8 @@
 ### 제품명, 가격, 주문갯수 표시
 - [query yeonjoo](./yeonjoooryu/w3schools/Products_Quantity.sql)
 - [query leejaehyun](./leejaehyun/w3schools/Products_Quantity.sql)
+
+### 이름, 이메일, 권한이름 표시 ?
+
+### 이름, 이메일, 권한이름 표시 / 조건 이름이 'Teddy', 'Allen' ?
+
