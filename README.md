@@ -38,11 +38,14 @@
 ### Users_Auths_query
 - [query yeonjoo](./yeonjoooryu/Users_Auths_query.sql)
 - [query leejaehyun](./leejaehyun/w3schools/Users_Auths_query.sql)
+- [query AnJiYeong](./AnJiYeong/w3schools/User_Auths_query.sql)
 
 ### Products에 CategoryID가 5,6를 표시, 내용 프로덕트 이름, 공급자 이름 출력
 - [query yeonjoo](./yeonjoooryu/Products_CategoryID.sql)
 - [query leejaehyun](./leejaehyun/w3schools/Products_CategoryID.sql)
+- [query AnJiYeong](./AnJiYeong/w3schools/Products_CategoryID.sql)
 
 ### 제품명, 가격, 주문갯수 표시
 - [query yeonjoo](./yeonjoooryu/w3schools/Products_Quantity.sql)
 - [query leejaehyun](./leejaehyun/w3schools/Products_Quantity.sql)
+- [query AnJiYeong](./AnJiYeong/w3schools/Products_Quantity.sql)
