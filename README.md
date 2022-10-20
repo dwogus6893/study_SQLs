@@ -40,3 +40,6 @@
 
 ### Products에 CategoryID가 5,6를 표시, 내용 프로덕트 이름, 공급자 이름 출력
 - [query yeonjoo](./yeonjoooryu/Products_CategoryID.sql)
+
+### 제품명, 가격, 주문갯수 표시
+- [query yeonjoo](./yeonjoooryu/w3schools/Products_Quantity.sql)
